@@ -1,0 +1,13 @@
+{
+    "extra_cmdline": {
+        "pid": "0x0001",
+        "vid": "0x46f4",
+        "sn": "1330LWN004268",
+        "netif_num": "2",
+        "mac1": 00:11:32:24:5F:0B
+        "mac2": 00:11:32:24:5F:0C
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
